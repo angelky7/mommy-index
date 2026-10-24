@@ -153,7 +153,7 @@ cd frontend && python -m http.server 8765
 
 本项目代码绝大部分基于 [mihang123/mom-index](https://github.com/mihang123/mom-index) 二次开发，在此基础上扩展为 8 个板块、接入 GitHub Actions 自动采集与 Pages 部署。
 
-在线实例：[caob23/mommy-index](https://caob23.github.io/mommy-index/)
+在线实例：[angelky7/mommy-index](https://angelky7.github.io/mommy-index/)
 
 感谢原作者的开源贡献。
 
